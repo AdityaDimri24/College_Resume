@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "Aditya Dimri",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/16KFcOK0O8aM7OpwcG6_ujk_r7Rnv-3GL/view?usp=sharing",
+		"email": "2020KUCP1063@iiitkota.ac.in",
+		"phone": "7983209626",
+		"website": "https://adityadimri24.github.io/My_Portfolio/",
+		"summary": "2nd year computer science undergraduate at IIIT Kota. Competitive Programmer. Currently learning Web Development.",
+		"location": {
+			"address": "H-No.-112, Lane No.-5, Krishna Vihar, Mohkampur",
+			"postalCode": "248005",
+			"city": "Dehradun",
+			"countryCode": "India",
+			"region": "Uttarakhand"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "AdityaDimri24",
+				"url": "https://github.com/AdityaDimri24"
+			},
+			{
+				"network": "linkedin",
+				"username": "Aditya Dimri",
+				"url": "https://www.linkedin.com/in/aditya-dimri24"
+			},
+			{
+				"network": "Instagram",
+				"username": "adityadimri24",
+				"url": "https://www.instagram.com/adityadimri24/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-12-01",
+		"endDate": "2024-04-01",
+		"gpa": "8.67",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	},
+  {
+    "level": "Beginner",
+    "keywords": ["Java"]
+  }],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
